@@ -7,3 +7,6 @@
 [submodule "Factory"]
 	path = Factory
 	url = https://github.com/HowProgrammingWorks/Factory
+[submodule "LinkedList"]
+	path = LinkedList
+	url = https://github.com/HowProgrammingWorks/LinkedList
