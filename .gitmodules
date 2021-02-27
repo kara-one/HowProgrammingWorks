@@ -1,3 +1,6 @@
 [submodule "AbstractFactory"]
 	path = AbstractFactory
 	url = https://github.com/HowProgrammingWorks/AbstractFactory
+[submodule "Abstractions"]
+	path = Abstractions
+	url = https://github.com/HowProgrammingWorks/Abstractions
