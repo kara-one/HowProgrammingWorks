@@ -10,3 +10,6 @@
 [submodule "LinkedList"]
 	path = LinkedList
 	url = https://github.com/HowProgrammingWorks/LinkedList
+[submodule "Index"]
+	path = Index
+	url = https://github.com/HowProgrammingWorks/Index
