@@ -13,3 +13,6 @@
 [submodule "Index"]
 	path = Index
 	url = https://github.com/HowProgrammingWorks/Index
+[submodule "algs_and_structures_course"]
+	path = algs_and_structures_course
+	url = https://github.com/utimur/algs_and_structures_course
